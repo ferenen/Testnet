@@ -3,4 +3,4 @@
 #Ağ projeleri
 
 - Strided
-- [Twitter](https://twitter.com/ferihan_p/).
+- [Twitter](https://twitter.com/ferihan_p)
