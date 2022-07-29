@@ -2,5 +2,5 @@
 
 #Ağ projeleri
 
--Strided
--[Twitter] (https://twitter.com/ferihan_p)
+- Strided
+- [Twitter] (https://twitter.com/ferihan_p)
